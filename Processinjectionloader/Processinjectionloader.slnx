@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Processinjectionloader/Processinjectionloader.vcxproj" Id="5c79d613-e0b7-400d-abf8-749250e91d2d" />
+</Solution>
