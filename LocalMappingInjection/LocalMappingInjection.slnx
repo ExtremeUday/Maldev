@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LocalMappingInjection/LocalMappingInjection.vcxproj" Id="1389ddfb-bde8-46ca-b707-b2cb5c80d260" />
+</Solution>
