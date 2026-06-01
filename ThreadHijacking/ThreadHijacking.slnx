@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ThreadHijacking/ThreadHijacking.vcxproj" Id="ecf1f4fc-9122-4530-9f74-1dea49ff32f9" />
+</Solution>
