@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="XOR shellcode loader/XOR shellcode loader.vcxproj" Id="103b8f65-1b02-4118-a97a-a5df509d41e6" />
+</Solution>
