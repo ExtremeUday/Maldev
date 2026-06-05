@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LocalStompingInjection/LocalStompingInjection.vcxproj" Id="14144f0b-b8f9-4a98-832d-0d76cf6a6d6a" />
+</Solution>
