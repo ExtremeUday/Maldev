@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RemoteStompingCode/RemoteStompingCode.vcxproj" Id="3850fa38-9143-4a43-8e45-2340a2556967" />
+</Solution>
