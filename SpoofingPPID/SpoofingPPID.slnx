@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SpoofingPPID/SpoofingPPID.vcxproj" Id="288d0501-d90c-439b-a51f-c41d4a1d211a" />
+</Solution>
