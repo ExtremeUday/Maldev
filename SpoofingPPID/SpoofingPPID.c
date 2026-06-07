@@ -30,7 +30,7 @@ int main() {
         printf("[!] GetEnvironmentVariableA failed: %d\n", GetLastError());
         return -1;
     }
-    sprintf(lpPath, "%s\\System32\\%s", WnDr, "notepad.exe");
+    snprintf(lpPath, sizeof(lpPath), "%s\\System32\\%s", WnDr, "notepad.exe");
 
     InitializeProcThreadAttributeList(NULL, 1, NULL, &sThreadAttList);
 
